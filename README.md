@@ -1,5 +1,7 @@
-# [Compare41](https://circlesarrows.com)
+
 **[Compare41](https://circlesarrows.com)** is an application that compares two Neo4j graphs, presents the differences in both the model and data, and lets you select sub-graphs to synchronize. This cutting-edge tool offers a range of essential features to improve productivity of developers and database administrators.
+
+![image](https://github.com/circles-arrows/compare41/assets/121929116/b5da4ce6-0f78-410f-9c3d-6c59c6a69492)
 
 # Features
 ### For Companies
