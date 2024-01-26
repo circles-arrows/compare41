@@ -30,6 +30,6 @@
 **Data-preparation**: Do fine-graded fixes of your data in isolation and sync this fixed data to your production database in a controlled way.
 
 &nbsp;
-### [Getting Started with Compare41](https://github.com/circles-arrows/compare41/wiki/Getting-Started)
+### [Get Started](https://github.com/circles-arrows/compare41/wiki/Getting-Started) with Compare41 
 
 <h3>Download Compare41 at <a href="https://www.circlesarrows.com">www.circlesarrows.com</a></h3>
