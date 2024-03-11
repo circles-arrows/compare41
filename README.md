@@ -1,5 +1,5 @@
 
-**[Compare41](https://circlesarrows.com)** is an advanced application for comparing **Neo4j** / **Memgraph** graph databases. It highlights differences in both the model and data, allowing you to choose sub-graphs for synchronization. This powerful tool enhances the efficiency of developers and database administrators with its essential features.
+**[Compare41](https://circlesarrows.com)** is an advanced application for comparing **Neo4j** or **Memgraph** graph databases. It highlights differences in both the model and data, allowing you to choose sub-graphs for synchronization. This powerful tool enhances the efficiency of developers and database administrators with its essential features.
 
 ![image](https://github.com/circles-arrows/compare41/assets/121929116/b5da4ce6-0f78-410f-9c3d-6c59c6a69492)
 
